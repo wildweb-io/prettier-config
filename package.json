@@ -1,0 +1,33 @@
+{
+	"name": "@wildweb/prettier-config",
+	"version": "0.0.1",
+	"description": "Prettier config used at wildweb",
+	"repository": "wildweb-io/prettier-config",
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 0"
+	},
+	"author": {
+		"name": "pnxdxt",
+		"email": "pnxdxt@gmail.com",
+		"url": "https://pnxdxt.com"
+	},
+	"prettier": {
+		"arrowParens": "avoid",
+		"bracketSpacing": false,
+		"jsxSingleQuote": true,
+		"singleQuote": true,
+		"trailingComma": "all",
+		"useTabs": true,
+		"proseWrap": "always",
+		"printWidth": 80
+	},
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	]
+}
