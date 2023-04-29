@@ -1,6 +1,6 @@
 {
 	"name": "@wildweb/prettier-config",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Prettier config used at wildweb",
 	"repository": "wildweb-io/prettier-config",
 	"license": "MIT",
