@@ -13,7 +13,6 @@ module.exports = {
 	endOfLine: 'lf',
 	htmlWhitespaceSensitivity: 'css',
 	insertPragma: false,
-	printWidth: 80,
 	quoteProps: 'preserve',
 	requirePragma: false,
 	semi: true,
