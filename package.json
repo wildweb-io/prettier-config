@@ -1,6 +1,6 @@
 {
 	"name": "@wildweb/prettier-config",
-	"version": "3.0.0",
+	"version": "3.0.2",
 	"description": "Prettier config used at wildweb",
 	"repository": "wildweb-io/prettier-config",
 	"license": "MIT",
@@ -8,6 +8,9 @@
 	"files": [
 		"index.js"
 	],
+	"engines": {
+		"node": ">=10.0.0"
+	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 0"
 	},
