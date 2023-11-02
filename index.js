@@ -18,6 +18,7 @@ module.exports = {
 	semi: true,
 	singleAttributePerLine: false,
 	overrides: [
-		{files: ['**/*.json', '**/*.yml', '**/*.yaml'], options: {useTabs: false}},
+		{files: ['**/*.json',], options: {useTabs: false}},
+		{files: ['**/*.yml', '**/*.yaml'], options: {useTabs: false, singleQuote: false}},
 	],
 };
